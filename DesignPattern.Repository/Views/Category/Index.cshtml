@@ -1,0 +1,23 @@
+﻿@model List<RepositoryDesignPattern.EntityLayer.Concrete.Category>
+<div class=" container">
+    <br />
+    <table class="table table-bordered">
+        <tr>
+            <th>#</th>
+            <th>Category Name</th>
+            <th>Delete</th>
+            <th>Update</th>
+        </tr>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>@item.CategoryID</td>
+                <td>@item.CategoryName</td>
+                <td> <a href="/Category/DeleteCategory/@item.CategoryID" class="btn btn-danger">Delete</a></td>
+                <td> <a href="/Category/UpdateCategory/@item.CategoryID" class="btn btn-danger">Update</a></td>
+            </tr>
+        }
+    </table>
+
+    <a href="/Category/AddCategory" class="btn btn-primary"> New Category</a>
+</div>
