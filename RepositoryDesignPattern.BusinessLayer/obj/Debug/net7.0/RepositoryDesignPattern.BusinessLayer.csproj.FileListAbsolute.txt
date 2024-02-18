@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.BusinessLayer\bin\Debug\net7.0\RepositoryDesignPattern.BusinessLayer.deps.json
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.BusinessLayer\bin\Debug\net7.0\RepositoryDesignPattern.BusinessLayer.runtimeconfig.json
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.BusinessLayer\bin\Debug\net7.0\RepositoryDesignPattern.BusinessLayer.dll
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.BusinessLayer\bin\Debug\net7.0\RepositoryDesignPattern.BusinessLayer.pdb
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.BusinessLayer\obj\Debug\net7.0\RepositoryDesignPattern.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.BusinessLayer\obj\Debug\net7.0\RepositoryDesignPattern.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.BusinessLayer\obj\Debug\net7.0\RepositoryDesignPattern.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.BusinessLayer\obj\Debug\net7.0\RepositoryDesignPattern.BusinessLayer.AssemblyInfo.cs
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.BusinessLayer\obj\Debug\net7.0\RepositoryDesignPattern.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.BusinessLayer\obj\Debug\net7.0\RepositoryDesignPattern.BusinessLayer.dll
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.BusinessLayer\obj\Debug\net7.0\refint\RepositoryDesignPattern.BusinessLayer.dll
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.BusinessLayer\obj\Debug\net7.0\RepositoryDesignPattern.BusinessLayer.pdb
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.BusinessLayer\obj\Debug\net7.0\RepositoryDesignPattern.BusinessLayer.genruntimeconfig.cache
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.BusinessLayer\obj\Debug\net7.0\ref\RepositoryDesignPattern.BusinessLayer.dll

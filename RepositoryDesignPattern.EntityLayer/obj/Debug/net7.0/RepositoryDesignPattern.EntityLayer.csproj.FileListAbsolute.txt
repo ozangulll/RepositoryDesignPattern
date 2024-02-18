@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.EntityLayer\bin\Debug\net7.0\RepositoryDesignPattern.EntityLayer.deps.json
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.EntityLayer\bin\Debug\net7.0\RepositoryDesignPattern.EntityLayer.runtimeconfig.json
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.EntityLayer\bin\Debug\net7.0\RepositoryDesignPattern.EntityLayer.dll
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.EntityLayer\bin\Debug\net7.0\RepositoryDesignPattern.EntityLayer.pdb
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.EntityLayer\obj\Debug\net7.0\RepositoryDesignPattern.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.EntityLayer\obj\Debug\net7.0\RepositoryDesignPattern.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.EntityLayer\obj\Debug\net7.0\RepositoryDesignPattern.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.EntityLayer\obj\Debug\net7.0\RepositoryDesignPattern.EntityLayer.AssemblyInfo.cs
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.EntityLayer\obj\Debug\net7.0\RepositoryDesignPattern.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.EntityLayer\obj\Debug\net7.0\RepositoryDesignPattern.EntityLayer.dll
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.EntityLayer\obj\Debug\net7.0\refint\RepositoryDesignPattern.EntityLayer.dll
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.EntityLayer\obj\Debug\net7.0\RepositoryDesignPattern.EntityLayer.pdb
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.EntityLayer\obj\Debug\net7.0\RepositoryDesignPattern.EntityLayer.genruntimeconfig.cache
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.EntityLayer\obj\Debug\net7.0\ref\RepositoryDesignPattern.EntityLayer.dll
