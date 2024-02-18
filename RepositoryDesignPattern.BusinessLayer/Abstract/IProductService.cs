@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace RepositoryDesignPattern.BusinessLayer.Abstract
 {
-    internal interface IProductService:IGenericService<Product>
+    public interface IProductService:IGenericService<Product>
     {
     }
 }
