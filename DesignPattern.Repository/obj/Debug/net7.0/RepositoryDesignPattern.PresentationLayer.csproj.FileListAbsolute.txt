@@ -40,3 +40,9 @@ C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\DesignPattern.Repos
 C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\DesignPattern.Repository\obj\Debug\net7.0\RepositoryDesignPattern.PresentationLayer.pdb
 C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\DesignPattern.Repository\obj\Debug\net7.0\RepositoryDesignPattern.PresentationLayer.genruntimeconfig.cache
 C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\DesignPattern.Repository\obj\Debug\net7.0\ref\RepositoryDesignPattern.PresentationLayer.dll
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\DesignPattern.Repository\bin\Debug\net7.0\RepositoryDesignPattern.BusinessLayer.dll
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\DesignPattern.Repository\bin\Debug\net7.0\RepositoryDesignPattern.DataAccessLayer.dll
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\DesignPattern.Repository\bin\Debug\net7.0\RepositoryDesignPattern.EntityLayer.dll
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\DesignPattern.Repository\bin\Debug\net7.0\RepositoryDesignPattern.BusinessLayer.pdb
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\DesignPattern.Repository\bin\Debug\net7.0\RepositoryDesignPattern.DataAccessLayer.pdb
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\DesignPattern.Repository\bin\Debug\net7.0\RepositoryDesignPattern.EntityLayer.pdb

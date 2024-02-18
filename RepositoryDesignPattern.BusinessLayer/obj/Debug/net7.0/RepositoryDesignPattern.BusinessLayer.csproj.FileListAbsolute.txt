@@ -12,3 +12,8 @@ C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPat
 C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.BusinessLayer\obj\Debug\net7.0\RepositoryDesignPattern.BusinessLayer.pdb
 C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.BusinessLayer\obj\Debug\net7.0\RepositoryDesignPattern.BusinessLayer.genruntimeconfig.cache
 C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.BusinessLayer\obj\Debug\net7.0\ref\RepositoryDesignPattern.BusinessLayer.dll
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.BusinessLayer\bin\Debug\net7.0\RepositoryDesignPattern.DataAccessLayer.dll
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.BusinessLayer\bin\Debug\net7.0\RepositoryDesignPattern.EntityLayer.dll
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.BusinessLayer\bin\Debug\net7.0\RepositoryDesignPattern.DataAccessLayer.pdb
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.BusinessLayer\bin\Debug\net7.0\RepositoryDesignPattern.EntityLayer.pdb
+C:\Users\Acer\Desktop\DesignPatterns\RepositoryDesignPattern\RepositoryDesignPattern.BusinessLayer\obj\Debug\net7.0\RepositoryDesignPattern.BusinessLayer.csproj.CopyComplete
