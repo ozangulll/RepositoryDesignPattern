@@ -1,0 +1,29 @@
+﻿@model List<RepositoryDesignPattern.EntityLayer.Concrete.Product>
+<div class=" container">
+    <br />
+    <table class="table table-bordered">
+        <tr>
+            <th>#</th>
+            <th>Product Name</th>
+            <th>Stock</th>
+            <th>Price</th>
+            <th>Category</th>
+            <th>Delete</th>
+            <th>Update</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ProductID</td>
+                <td>@item.ProductName</td>
+                <td>@item.ProductStock</td>
+                <td>@item.ProductPrice</td>
+                <td>@item.CategoryID</td>
+                <td> <a href="/Product/DeleteProduct/@item.CategoryID" class="btn btn-danger">Delete</a></td>
+                <td> <a href="/Product/UpdateProduct/@item.CategoryID" class="btn btn-danger">Update</a></td>
+            </tr>
+        }
+    </table>
+
+    <a href="/Category/AddProduct" class="btn btn-primary"> New Product</a>
+</div>
