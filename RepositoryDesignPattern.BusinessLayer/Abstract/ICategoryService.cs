@@ -5,10 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RepositoryDesignPattern.DataAccessLayer.Abstract
+namespace RepositoryDesignPattern.BusinessLayer.Abstract
 {
-    public interface ICategoryDal:IGenericDAL<Category>
+    internal interface ICategoryService:IGenericService<Category>
     {
-
     }
 }

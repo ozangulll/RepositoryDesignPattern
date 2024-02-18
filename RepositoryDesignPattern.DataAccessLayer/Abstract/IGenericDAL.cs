@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace RepositoryDesignPattern.DataAccessLayer.Abstract
 {
-    internal interface IGenericDAL
+    public interface IGenericDAL<T> where T : class
     {
+        void Insert (T entity);
+        void Update (T entity);
+        void Delete (T entity);
+        List<T> GetList();
+        T GetByID(int id);
     }
 }
