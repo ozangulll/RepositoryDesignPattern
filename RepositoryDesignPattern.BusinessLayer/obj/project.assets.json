@@ -402,6 +402,37 @@
         "build": {
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
+      },
+      "RepositoryDesignPattern.DataAccessLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.11",
+          "Npgsql": "8.0.2",
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "7.0.11",
+          "RepositoryDesignPattern.EntityLayer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RepositoryDesignPattern.DataAccessLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RepositoryDesignPattern.DataAccessLayer.dll": {}
+        }
+      },
+      "RepositoryDesignPattern.EntityLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.11",
+          "Npgsql": "8.0.2",
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "7.0.11"
+        },
+        "compile": {
+          "bin/placeholder/RepositoryDesignPattern.EntityLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RepositoryDesignPattern.EntityLayer.dll": {}
+        }
       }
     }
   },
@@ -1024,6 +1055,16 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "RepositoryDesignPattern.DataAccessLayer/1.0.0": {
+      "type": "project",
+      "path": "../RepositoryDesignPattern.DataAccessLayer/RepositoryDesignPattern.DataAccessLayer.csproj",
+      "msbuildProject": "../RepositoryDesignPattern.DataAccessLayer/RepositoryDesignPattern.DataAccessLayer.csproj"
+    },
+    "RepositoryDesignPattern.EntityLayer/1.0.0": {
+      "type": "project",
+      "path": "../RepositoryDesignPattern.EntityLayer/RepositoryDesignPattern.EntityLayer.csproj",
+      "msbuildProject": "../RepositoryDesignPattern.EntityLayer/RepositoryDesignPattern.EntityLayer.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1032,7 +1073,9 @@
       "Microsoft.EntityFrameworkCore.Design >= 7.0.11",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.11",
       "Npgsql >= 8.0.2",
-      "Npgsql.EntityFrameworkCore.PostgreSQL >= 7.0.11"
+      "Npgsql.EntityFrameworkCore.PostgreSQL >= 7.0.11",
+      "RepositoryDesignPattern.DataAccessLayer >= 1.0.0",
+      "RepositoryDesignPattern.EntityLayer >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1061,7 +1104,14 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Acer\\Desktop\\DesignPatterns\\RepositoryDesignPattern\\RepositoryDesignPattern.DataAccessLayer\\RepositoryDesignPattern.DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\Acer\\Desktop\\DesignPatterns\\RepositoryDesignPattern\\RepositoryDesignPattern.DataAccessLayer\\RepositoryDesignPattern.DataAccessLayer.csproj"
+            },
+            "C:\\Users\\Acer\\Desktop\\DesignPatterns\\RepositoryDesignPattern\\RepositoryDesignPattern.EntityLayer\\RepositoryDesignPattern.EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\Acer\\Desktop\\DesignPatterns\\RepositoryDesignPattern\\RepositoryDesignPattern.EntityLayer\\RepositoryDesignPattern.EntityLayer.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -20,4 +20,12 @@
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="7.0.11" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Concrete\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RepositoryDesignPattern.EntityLayer\RepositoryDesignPattern.EntityLayer.csproj" />
+  </ItemGroup>
+
 </Project>
