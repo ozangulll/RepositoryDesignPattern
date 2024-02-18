@@ -14,6 +14,8 @@ builder.Services.AddDbContext<Context>(options =>
     options.UseNpgsql(connectionString));
 builder.Services.AddScoped<ICategoryService, CategoryManager>();
 builder.Services.AddScoped<ICategoryDal, EfCategoryDal>();
+builder.Services.AddScoped<IProductService, ProductManager>();
+builder.Services.AddScoped<IProductDal, EfProductDal>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
